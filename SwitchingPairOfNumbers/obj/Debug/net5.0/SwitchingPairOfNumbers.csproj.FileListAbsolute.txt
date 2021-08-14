@@ -1,0 +1,16 @@
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\bin\Debug\net5.0\SwitchingPairOfNumbers.exe
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\bin\Debug\net5.0\SwitchingPairOfNumbers.deps.json
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\bin\Debug\net5.0\SwitchingPairOfNumbers.runtimeconfig.json
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\bin\Debug\net5.0\SwitchingPairOfNumbers.runtimeconfig.dev.json
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\bin\Debug\net5.0\SwitchingPairOfNumbers.dll
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\bin\Debug\net5.0\ref\SwitchingPairOfNumbers.dll
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\bin\Debug\net5.0\SwitchingPairOfNumbers.pdb
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.csproj.AssemblyReference.cache
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.AssemblyInfoInputs.cache
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.AssemblyInfo.cs
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.dll
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\ref\SwitchingPairOfNumbers.dll
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.pdb
+C:\Users\acsankar\source\repos\SwitchingPairOfNumbers\SwitchingPairOfNumbers\obj\Debug\net5.0\SwitchingPairOfNumbers.genruntimeconfig.cache
